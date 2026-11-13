@@ -10,6 +10,17 @@ The report distinguishes arrests, indictments, complaints, allegations, guilty p
 
 ## Included cases by office level and chronology
 
+### U.S. President
+
+#### Donald J. Trump — 45th and 47th U.S. President
+
+- **Office and status:** 45th President (2017–2021) and 47th President (2025–). The civil verdict was returned in May 2023, while he was a former president and an active candidate for the 2024 election. [58]
+- **Jurisdiction:** U.S. District Court for the Southern District of New York (Manhattan).
+- **Nature of proceeding:** Civil suit, not a criminal case. There was no arrest, criminal charge, or criminal conviction. This entry is a clearly labeled exception to the report's criminal-case scope, included because the underlying conduct finding and the trial judge's characterization of it as rape are matters of public record concerning a current U.S. president.
+- **Claim:** Writer E. Jean Carroll's civil battery and defamation suit accused Trump of pinning her against a dressing-room wall in a Bergdorf Goodman department store in the mid-1990s and forcibly penetrating her with his fingers. Her allegation was tried to a federal jury. [58][59]
+- **Outcome:** On May 9, 2023, the jury found Trump liable for sexual abuse and defamation and awarded Carroll $5 million; it did not find liability under New York law's narrow statutory definition of "rape." On July 19, 2023, Judge Lewis A. Kaplan, denying Trump's request for a new trial, wrote that what the jury found Trump did was in fact rape "as many people commonly understand the word," even though New York Penal Law's definition is narrower. The U.S. Court of Appeals for the Second Circuit affirmed the verdict on December 30, 2024. [58][59][60]
+- **Caution:** This is a civil liability finding on a preponderance-of-the-evidence standard, not a criminal conviction. It should not be described as a criminal charge, a guilty verdict, or a sex-crime conviction. Trump denied the allegation throughout.
+
 ### U.S. Representatives
 
 #### Fred (Frederick William) Richmond — U.S. Representative, New York
@@ -116,6 +127,8 @@ The explicit office filter excludes state legislators, attorneys general, comptr
 
 Larry Craig is included only because the requested scope expressly permits arrest or formal-charge cases involving sitting senators and because the arrest concerned alleged sexual or lewd conduct with extensive national consequences; his documented conviction was not for a sex offense. Greitens is included as a formal felony invasion-of-privacy case with alleged nude-image conduct, while noting that it was not a rape or sexual-assault charge and ended without adjudication. Cuomo is included because the formal forcible-touching complaint was a statutory sex-offense charge, but the summons should not be relabeled as a custodial arrest. Doyle’s initial charge was a federal criminal information rather than a verified initial arrest, but the later guilty plea and sentence are established. Weiner’s conduct and conviction occurred after his congressional service; he is included because the supplied scope includes nationally prominent officeholders and the cited DOJ release identifies him as a former congressman and mayoral candidate.
 
+Donald J. Trump is the sole civil-case entry: his case involved no arrest or criminal charge and is included as a labeled exception because a federal jury's liability finding and the trial judge's published characterization of the conduct as rape, as commonly understood, are matters of public record concerning a sitting U.S. president. It must not be presented as a criminal case.
+
 The supplied results contain no additional candidate that remained both within the stated office filter and unverified after review. Accordingly, the report records **0 unresolved included candidates** in the supplied result set; this is not a claim that open-web research has located every possible case.
 
 ## References
@@ -177,3 +190,6 @@ The supplied results contain no additional candidate that remained both within t
 [55]: https://www.justice.gov/usao-sdny/pr/anthony-weiner-pleads-guilty-manhattan-federal-court-transferring-obscene-material "DOJ: Weiner Pleads Guilty"
 [56]: https://www.justice.gov/usao-sdny/pr/anthony-weiner-sentenced-21-months-prison-transferring-obscene-material-minor "DOJ: Weiner Sentenced"
 [57]: https://www.reuters.com/article/world/ex-congressman-weiner-released-from-prison-after-sexting-scandal-idUSKCN1Q707I/ "Weiner Released from Prison"
+[58]: https://www.washingtonpost.com/politics/2023/07/19/trump-carroll-judge-rape "Washington Post: Judge Clarifies Trump Was Found to Have Raped E. Jean Carroll"
+[59]: https://www.npr.org/2023/05/09/1174975870/trump-carroll-verdict "NPR: Trump Found Liable for Battery, Defamation Against E. Jean Carroll"
+[60]: https://law.justia.com/cases/federal/appellate-courts/ca2/23-793/23-793-2024-12-30.html "Second Circuit: Carroll v. Trump (2024)"
